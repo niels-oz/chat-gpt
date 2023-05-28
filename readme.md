@@ -23,19 +23,17 @@ source ../venv/chat-gpt/bin/activate
 pip install -r requirements.txt
 ```
 
-You will also need to add your OpenAI API key to the `.env` file.
+To create an openAI API key goto https://platform.openai.com/account/api-keys
+
+And add your OpenAI API key to the `.env` file.
 
 ## Usage
 
-To use the application, run the `main.py` file with the streamlit CLI (after having installed streamlit): 
+To use the application, run the `app.py` file with the streamlit CLI (after having installed streamlit): 
 
 ```
 streamlit run app.py
 ```
 
-
-## Contributing
-
-This repository is for educational purposes only and is not intended to receive further contributions. It is supposed to be used as support material for the YouTube tutorial that shows how to build the project.
 
 
