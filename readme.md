@@ -19,7 +19,7 @@ To install the repository, please clone this repository and install the requirem
 https://github.com/niels-oz/chat-gpt.git
 cd chat-gpt
 venv ../venv/chat-gpt
-source ../venv/chat-gpt/activate
+source ../venv/chat-gpt/bin/activate
 pip install -r requirements.txt
 ```
 
