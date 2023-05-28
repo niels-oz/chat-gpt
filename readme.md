@@ -16,6 +16,10 @@ The application uses Streamlit to create the GUI and Langchain to deal with the 
 To install the repository, please clone this repository and install the requirements:
 
 ```
+https://github.com/niels-oz/chat-gpt.git
+cd chat-gpt
+venv ../venv/chat-gpt
+source ../venv/chat-gpt/activate
 pip install -r requirements.txt
 ```
 
