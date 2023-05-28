@@ -13,7 +13,7 @@ The application uses Streamlit to create the GUI and Langchain to deal with the 
 
 ## Installation
 
-To install the repository, please clone this repository and install the requirements:
+To install the repository, please clone this repository, create a virtual environment and install the requirements:
 
 ```
 https://github.com/niels-oz/chat-gpt.git
@@ -23,9 +23,8 @@ source ../venv/chat-gpt/bin/activate
 pip install -r requirements.txt
 ```
 
-To create an openAI API key goto https://platform.openai.com/account/api-keys
-
-And add your OpenAI API key to the `.env` file.
+To create an openAI API key goto https://platform.openai.com/account/api-keys. 
+Create a `.env` file. And add your OpenAI API key to it.
 
 ## Usage
 
