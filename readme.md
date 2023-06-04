@@ -18,7 +18,7 @@ To install the repository, please clone this repository, create a virtual enviro
 ```
 git clone https://github.com/niels-oz/chat-gpt.git
 cd chat-gpt
-python3.10 -m venv ../venv/chat-gpt
+python3 -m venv ../venv/chat-gpt
 source ../venv/chat-gpt/bin/activate
 pip install -r requirements.txt
 ```
